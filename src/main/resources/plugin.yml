@@ -1,0 +1,3 @@
+name: aman207-t3
+main: com.tenjava.entries.aman207.t3.TenJava
+version: '${project.version}'
